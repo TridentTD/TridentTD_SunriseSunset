@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+TridentTD_SunriseSunset	KEYWORD3
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPosition	KEYWORD2
+setTimezone	KEYWORD2
+
+day_Length	KEYWORD2
+civilTwilight_Length	KEYWORD2
+nauticalTwilight_Length	KEYWORD2
+astronomicalTwilight_Length	KEYWORD2
+
+sunrise	KEYWORD2
+sunset	KEYWORD2
+
+civilTwilight_Start	KEYWORD2
+civilTwilight_End	KEYWORD2
+nauticalTwilight_Start	KEYWORD2
+nauticalTwilight_End	KEYWORD2
+astronomicalTwilight_Start	KEYWORD2
+astronomicalTwilight_End	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+# SQLITE32_OK	LITERAL1
+# SQLITE32_FAIL	LITERAL1
+
